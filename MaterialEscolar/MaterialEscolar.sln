@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialEscolar", "MaterialEscolar\MaterialEscolar.csproj", "{D7257A06-9B08-49B3-859F-B1FD314D9A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{9740D86A-B785-403F-9093-E140F3CA0878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7257A06-9B08-49B3-859F-B1FD314D9A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7257A06-9B08-49B3-859F-B1FD314D9A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7257A06-9B08-49B3-859F-B1FD314D9A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7257A06-9B08-49B3-859F-B1FD314D9A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9740D86A-B785-403F-9093-E140F3CA0878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9740D86A-B785-403F-9093-E140F3CA0878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9740D86A-B785-403F-9093-E140F3CA0878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9740D86A-B785-403F-9093-E140F3CA0878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB260713-A46A-4392-8C57-0121C5E9FFBB}
+	EndGlobalSection
+EndGlobal
