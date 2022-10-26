@@ -93,7 +93,7 @@
 
         public void Exibir()
         {
-            Console.Write("Cor: " + Cor);
+            Console.WriteLine("Cor: " + Cor);
             Console.WriteLine("\nTamanho: " + Tamanho);
             Console.WriteLine("Peso :" + Peso);
             Console.WriteLine("Tampada: " + Convert.ToString(Tampada));
