@@ -148,7 +148,7 @@
             Console.WriteLine(_texto);
             GastarTinta();
         }
-         private void GastarTinta()
+        private void GastarTinta()
         {
             percentualCarga -= 10;
         }

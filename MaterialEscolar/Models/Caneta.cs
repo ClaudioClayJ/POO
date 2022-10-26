@@ -1,5 +1,7 @@
 ﻿namespace Models
 {
+
+
     public class Caneta
 
     {
@@ -12,10 +14,10 @@
         private int percentualcarga;
         private string marca;
         private string material;
-        private string tipoponta;
+        private string tipoPonta;
         private double ponta;
 
-        public string Cor
+       public string Cor
         {
             get { return cor; }
             set { cor = value; }
@@ -65,8 +67,8 @@
         }
         public string TipoPonta
         {
-            get { return TipoPonta; }
-            set { TipoPonta = value; }
+            get { return tipoPonta; }
+            set { tipoPonta = value; }
         }
         public double Ponta
         {

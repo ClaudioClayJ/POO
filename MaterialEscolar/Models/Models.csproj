@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\aluno\Desktop\CLAUDIO\GITHUB\POO\Caneta.cs" Link="Caneta.cs" />
-  </ItemGroup>
-
 </Project>
