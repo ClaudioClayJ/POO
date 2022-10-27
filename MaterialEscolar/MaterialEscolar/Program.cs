@@ -11,10 +11,13 @@ internal class Program
         lapis.Exibir();
         lapis.Escrever("Sucesso!");*/
 
-        Apontador apontador = new Apontador("Preto", "Faber Castell", 5);
+        /*Apontador apontador = new Apontador("Preto", "Faber Castell", 5);
         apontador.Mostrar();
-        apontador.Apontar("teste");
+        apontador.Apontar("teste");*/
 
-
+        Borracha borracha = new Borracha("Branco", 3, 7, "Faber Castell");
+        borracha.Exibir();
+        borracha.Apagar();
+        borracha.Apagando("");
     }
 }
