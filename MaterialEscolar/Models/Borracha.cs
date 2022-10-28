@@ -87,6 +87,7 @@ namespace Models
             if(this.GastarBorracha == true )
             {
                 PorcentagemBorracha -= 3;
+
                 Console.WriteLine("Porcentagem Gasta:  " + PorcentagemBorracha);
                 Console.WriteLine("Apangando o erro");
                 return;
